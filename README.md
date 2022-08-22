@@ -1,0 +1,2 @@
+# HashRunner
+Fundamental hashing algorithm 
